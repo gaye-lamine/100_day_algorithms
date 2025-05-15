@@ -78,5 +78,3 @@ MIT © [Lamine Gaye]
 
 ✨ **Astuce** : Utilisez [LeetCode](https://leetcode.com/) ou [Codewars](https://www.codewars.com/) pour vous entraîner entre les défis !
 
-🔥 **Bonus Track** : Tenez un journal de bord de votre progression dans le fichier [JOURNAL.md](JOURNAL.md) !
-```
