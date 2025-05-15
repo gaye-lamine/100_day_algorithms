@@ -1,5 +1,3 @@
-
-```markdown
 # 💯 100 Days of Algorithms – JavaScript Edition
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
@@ -7,74 +5,68 @@
 ![Progress](https://img.shields.io/badge/Progress-0%25-red)
 ![Days](https://img.shields.io/badge/Days-100-brightgreen)
 
-Bienvenue dans le défi **100 Days of Algorithms** !  
-Un voyage pour maîtriser les algorithmes en JavaScript, un jour à la fois. 🚀
+✨ **Un voyage algorithmique en JavaScript - 1 défi par jour pendant 100 jours** ✨
 
-> "La pratique rend parfait. La répétition crée la maîtrise." - Tony Robbins
+---
 
-## 🌟 Fonctionnalités
+## 🌟 Bienvenue dans l'aventure !
 
-- 🎯 **100 défis** algorithmiques progressifs
-- 📝 **Solutions commentées** avec explications
-- 🧪 **Tests unitaires** pour vérifier son code
-- 📊 **Suivi de progression** intégré
-- 🏆 **Badges d'accomplissement**
+**"La pratique rend parfait. La répétition crée la maîtrise."**  
+*— Tony Robbins*
 
-## 🗂 Structure du projet
+Défiez-vous avec **100 algorithmes progressifs** soigneusement sélectionnés pour devenir un expert JavaScript !
 
-```bash
+🚀 **Ce que vous allez gagner** :
+- 🧠 Une compréhension profonde des structures de données
+- ⚡ Des compétences optimisées en résolution de problèmes
+- 🏆 Un portfolio impressionnant de solutions algorithmiques
+
+---
+
+## 🌈 Fonctionnalités clés
+
+- 🎯 **100 défis** du facile à l'expert
+- 📝 **Explications détaillées** étape par étape
+- 🧪 **Tests unitaires** prêts à l'emploi
+- � **Badges visuels** pour suivre votre progression
+- 🛠 **Bonnes pratiques** intégrées
+
+---
+
+## 🗂 Architecture du projet
+
+Chaque défi suit cette structure claire :
+
 /day01-factorial/
-├── README.md        # Énoncé du problème + explications
-├── solution.js      # Solution en JavaScript (ES6+)
-└── test.js          # Tests unitaires (Jest/Mocha)
-```
+├── README.md → Énoncé + explications
+├── solution.js → Solution JavaScript moderne
+└── test.js → Batterie de tests complets
 
-**Convention de nommage** : `dayXX-nom-algorithme` (ex: `day02-fibonacci`)
 
-## 🛠 Règles de codage
+**Convention** : `dayXX-nom-algorithme` (ex: `day15-dijkstra`)
 
-| Règle | Badge | Description |
-|-------|-------|-------------|
-| Pureté | ![Pure Function](https://img.shields.io/badge/Pure-Function-9cf) | Favoriser les fonctions pures |
-| Complexité | ![Time Complexity](https://img.shields.io/badge/O(n)-Time-blue) | Noter la complexité algorithmique |
-| Style | ![Code Style](https://img.shields.io/badge/Style-Airbnb-ff69b4) | Suivre le guide Airbnb |
-| Tests | ![Test Coverage](https://img.shields.io/badge/Coverage-100%25-success) | Viser 100% de couverture |
+---
 
-1. **Uniquement JavaScript moderne** (ES6+)
-2. **Commentaires clairs** expliquant la logique
-3. **Fonctions atomiques** (une seule responsabilité)
-4. **Tests exhaustifs** (cas normaux + limites)
-5. **Pas de plagiat** - Comprendre avant de copier
+## ✨ Règles d'or
 
-## 📊 Progression
+🔹 **Pureté** ![Pure](https://img.shields.io/badge/Pure-Function-9cf)  
+Fonctions sans effets secondaires
 
-| Jour | Algorithme | Statut | Difficulté |
-|------|------------|--------|------------|
-| 01 | [Factorielle](/day01-factorial) | ✅ | ![Easy](https://img.shields.io/badge/-Easy-green) |
-| 02 | [Fibonacci](/day02-fibonacci) | 🟡 | ![Medium](https://img.shields.io/badge/-Medium-orange) |
-| 03 | [Palindrome](/day03-palindrome) | ❌ | ![Easy](https://img.shields.io/badge/-Easy-green) |
-| ... | ... | ... | ... |
+🔹 **Performance** ![Time](https://img.shields.io/badge/O(n)-Time-blue)  
+Complexité algorithmique maîtrisée
 
-**Légende** :  
-✅ Terminé - 🟡 En cours - ❌ Non commencé
+🔹 **Élégance** ![Style](https://img.shields.io/badge/Style-Airbnb-ff69b4)  
+Code lisible et bien structuré
 
-## 🚀 Comment commencer ?
+🔹 **Robustesse** ![Tests](https://img.shields.io/badge/Coverage-100%25-success)  
+Tests complets avec cas limites
+
+---
+
+## 🚀 Lancez-vous !
 
 ```bash
 git clone https://github.com/votre-repo/100-days-algorithms-js.git
 cd 100-days-algorithms-js
-npm install # Si vous utilisez des tests
-```
-
-## 🤝 Contribution
-
-Les PR sont les bienvenues ! Suivez simplement les [guidelines](CONTRIBUTING.md).
-
-## 📜 License
-
-MIT © [Lamine Gaye]
-
----
-
-✨ **Astuce** : Utilisez [LeetCode](https://leetcode.com/) ou [Codewars](https://www.codewars.com/) pour vous entraîner entre les défis !
-
+npm install  # Pour les tests
+💡 Pro-tip : Complétez avec LeetCode ou Codewars pour booster votre apprentissage !
