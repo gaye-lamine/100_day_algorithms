@@ -155,7 +155,7 @@ Chaque défi suit cette structure claire et cohérente:
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-repo/100-days-algorithms-js.git
+git clone https://github.com/gaye-lamine/100-days-algorithms-js.git
 
 # Naviguer dans le projet
 cd 100-days-algorithms-js
