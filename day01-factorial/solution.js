@@ -1,14 +1,8 @@
 /**
- * Calculates the factorial of a number n.
- * The factorial of a number n is the product of all positive integers less than or equal to n.
- * It is denoted by n!.
- * For example, 5! = 5 * 4 * 3 * 2 * 1 = 120.
- * The factorial of 0 is defined to be 1.
- * The factorial of a negative number is undefined.
- * 
- * @param {number} n - The number to compute the factorial of.
- * @returns {number|string} - The factorial of n, or "undefined" if n is negative.
+ * @param {number} n 
+ * @returns {number|string}
  */
+
 function factorielle(n) {
     if (n < 0) {
         return "undefined";
@@ -20,6 +14,12 @@ function factorielle(n) {
         return n * factorielle(n - 1);
     }
 }
+
+/**
+ * @param {number} n
+ * @returns {number|string}
+ * /
+ */
 
 function factorielleIterative(n)
 {
