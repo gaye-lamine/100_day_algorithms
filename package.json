@@ -1,0 +1,24 @@
+{
+  "name": "100-day-de-algo",
+  "version": "1.0.0",
+  "description": "![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\r ![Progress](https://img.shields.io/badge/Progression-0%25-red?style=for-the-badge)\r ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaye-lamine/100_day_algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaye-lamine/100_day_algorithms/issues"
+  },
+  "homepage": "https://github.com/gaye-lamine/100_day_algorithms#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
